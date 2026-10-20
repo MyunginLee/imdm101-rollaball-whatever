@@ -5,7 +5,7 @@ public class Clone : MonoBehaviour
     public GameObject mother; // the GO to clone 
     GameObject[] clones;
     float time;
-    int numberofCollectibles = 100;
+    int numberofCollectibles = 200;
     //GameObject[] Clones; // array of GOs to be cloned
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
